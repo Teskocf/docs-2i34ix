@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-rkr8ta.jambul126.xyz/sitemap.xml
